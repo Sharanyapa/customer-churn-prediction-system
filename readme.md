@@ -5,7 +5,7 @@ An end-to-end Machine Learning application that predicts telecom customer churn 
 ---
 
 ## 🌐 Live Demo
-https://customer-churn-prediction-system-cfluj9dlxcf2bcg25cifhd.streamlit.app/
+[https://customer-churn-prediction-system-cfluj9dlxcf2bcg25cifhd.streamlit.app/](https://customer-churn-prediction-system-cfluj9dlxcf2bcg25cifhd.streamlit.app/)
 
 
 ---
@@ -82,6 +82,7 @@ The app includes:
 ---
 
 ## 📂 Repository Structure
+
 
 
 
